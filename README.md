@@ -2,8 +2,6 @@
 Event Recommendation Engine
 
 
-        Jeevan Khetwani                        Sameer Sharma	                           Sumeet Agarwal
-        jhkhetwa@ncsu.edu                     ssharm20@ncsu.edu 	                    sagarwa6@ncsu.edu
 
 
 1	Background and Introduction
